@@ -61,5 +61,5 @@ This project simulates a remote administration tool that communicates over TCP/I
 This project is for educational purposes only. Do not use it on machines or networks without proper authorization. Unauthorized remote control of systems is illegal and unethical.
 
 ## 👨‍💻 Author
-Template originally authored by Barak Gonen (2017), updated to Python 3 in 2020.
+Template Credit: Barak Gonen, Cyber Education Center.
 Modified and extended for instructional purposes.
